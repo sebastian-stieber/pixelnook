@@ -2,10 +2,6 @@
 
 A console-like emulation frontend focused on smooth UX, customization, and a clean library experience.
 
-> Passion project by **TechnoPanda**. Local-first. No accounts. No telemetry.
-
-![Screenshot](assets/screenshots/placeholder.png)
-
 ## Download
 
 Download the latest build from the **Releases** page:
